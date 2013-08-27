@@ -1,3 +1,6 @@
+Author
+==========
+"Stilgenbauer, Kendall", stilgeki
 01_Git_and_Intro
 ================
 
