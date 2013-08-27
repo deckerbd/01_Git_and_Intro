@@ -1,3 +1,6 @@
+Author
+==========
+"Kimmett, Adrian", kimmetad
 01_Git_and_Intro
 ================
 
