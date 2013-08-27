@@ -1,3 +1,6 @@
+Author
+==========
+"Kojs, Michelle", kojsmn
 01_Git_and_Intro
 ================
 
