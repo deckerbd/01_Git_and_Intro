@@ -1,3 +1,6 @@
+Author
+==========
+"Li, Yang", liy28
 01_Git_and_Intro
 ================
 
