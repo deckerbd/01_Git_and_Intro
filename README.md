@@ -1,3 +1,6 @@
+Author
+==========
+"Harvey, Steven", harveysd
 01_Git_and_Intro
 ================
 
