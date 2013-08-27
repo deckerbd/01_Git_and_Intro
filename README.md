@@ -1,3 +1,6 @@
+Author
+==========
+"Blase, Douglas", blasedd
 01_Git_and_Intro
 ================
 
