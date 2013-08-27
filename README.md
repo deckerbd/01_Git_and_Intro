@@ -1,3 +1,6 @@
+Author
+==========
+"Griffith, David", griffid5
 01_Git_and_Intro
 ================
 
