@@ -1,3 +1,6 @@
+Author
+==========
+"Mullins, Harrison", mullingh
 01_Git_and_Intro
 ================
 
