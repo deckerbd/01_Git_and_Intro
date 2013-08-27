@@ -1,3 +1,6 @@
+Author
+==========
+"Vutisalchavakul, Pob", vutisat
 01_Git_and_Intro
 ================
 
