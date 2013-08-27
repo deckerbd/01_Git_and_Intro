@@ -1,3 +1,6 @@
+Author
+==========
+"Monnin, Sebastian", monninse
 01_Git_and_Intro
 ================
 
