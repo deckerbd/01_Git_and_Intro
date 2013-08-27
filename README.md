@@ -1,3 +1,6 @@
+Author
+==========
+"Bickley, Daniel", bickledb
 01_Git_and_Intro
 ================
 
