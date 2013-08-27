@@ -1,3 +1,6 @@
+Author
+==========
+"Zhong, Mingwei", zhongm2
 01_Git_and_Intro
 ================
 
