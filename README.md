@@ -1,3 +1,6 @@
+Author
+==========
+"Decker, Benjamin", deckerbd
 01_Git_and_Intro
 ================
 
