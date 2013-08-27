@@ -1,3 +1,6 @@
+Author
+==========
+"Gardner, Daniel", gardnedn
 01_Git_and_Intro
 ================
 
