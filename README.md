@@ -1,3 +1,6 @@
+Author
+==========
+"Luo, Yu", luoy6
 01_Git_and_Intro
 ================
 
