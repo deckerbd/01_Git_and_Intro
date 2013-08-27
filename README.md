@@ -1,3 +1,6 @@
+Author
+==========
+"Contini, Nick", continnd
 01_Git_and_Intro
 ================
 
