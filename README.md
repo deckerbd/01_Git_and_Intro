@@ -1,3 +1,6 @@
+Author
+==========
+"Zirkle, Andrew", zirkleac
 01_Git_and_Intro
 ================
 
