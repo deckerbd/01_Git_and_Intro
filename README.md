@@ -1,3 +1,6 @@
+Author
+==========
+"Hiler, Rodney", hilerrw
 01_Git_and_Intro
 ================
 
