@@ -1,3 +1,6 @@
+Author
+==========
+"Bailey, Sam", baileys2
 01_Git_and_Intro
 ================
 
