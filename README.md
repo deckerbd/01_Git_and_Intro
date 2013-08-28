@@ -63,7 +63,7 @@ It's okay to make copies of your work and back it up also using your USB drive o
 
 #### 2. Imagine that you come into the lab on the weekend to work on homework with friends, but you forgot to bring your USB drive with your repo on it. What should you do?
 
-[Your answer here]
+Clone your up-to-date repo from GitHub using git, check it out, work on it, then push your updates while you work to GitHub.
 
 #### 3. Morin, Exercise 1.1 (p. 23)
 
