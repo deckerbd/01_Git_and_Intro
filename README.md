@@ -64,7 +64,23 @@ Clone your up-to-date repo from GitHub using git, check it out, work on it, then
 
 #### 3. Morin, Exercise 1.1 (p. 23)
 
-[Your answer here]
+1.1.1. Stack: using a loop, read in each line as a string, and push it onto a stack. Once all the lines are read, use a loop which pops a string off the stack and prints it.
+
+1.1.2. Stack: using a loop which reads in 50 lines as a string, push each line onto a stack. Once 50 lines are read, use a loop which pops a string off the stack and prints it.
+
+1.1.3. Queue: first read in at least 42 lines, placing them into a queue capable of storing 43 lines, while discarding any blank lines and popping without printing if the array reaches 43 lines long. After having stored 42 lines, instead of discarding blank lines, if a blank line is detected, pop and print the line.
+
+1.1.4. USet: add each string into a USet since the USet will only add unique elements. If the add(String s) returns true, print the string.
+
+1.1.5. USet: attempt to add each string into a USet. If the add(String s) returns false, print the string.
+
+1.1.6. SSet: add all the lines into the SSet, which will automatically sort them, while also refusing to accept duplicates.
+
+1.1.7. 
+
+1.1.8. 2 Queues: alternate adding each line to the queues, so that one queue has all the even numbered lines, while the other has all the odd numbered lines. Print the contents of the even one first by popping and printing, then do the same with the odd numbered queue.
+
+1.1.9. 
 
 #### 4. Your choice: Morin, Exercise 1.2, 1.3, or 1.4 (pick one)
 
