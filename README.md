@@ -86,7 +86,13 @@ Clone your up-to-date repo from GitHub using git, check it out, work on it, then
 
 Note: You should not need to write any real computer code for any of these. Instead, explain how you would approach the problem using a combination of English and pseudocode. The goal is to write something that is understandable by any programmer, even if the two of you have never used the same computer language. (In other words, assume the other person does not know the syntax of Java or C/C++, but knows the basic programming constructs such as for loops, if statements, variables, and so on.)
 
-[Your answer here]
+Exercise 1.4:
+
+ while(!stack.isEmpty())
+  queue.add(stack.pop())
+ while(!queue.isEmpty())
+  stack.push(queue.next())
+
 
 #### 5. Define/explain each of the following terms, as they relate to git.
 
