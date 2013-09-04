@@ -74,13 +74,13 @@ Clone your up-to-date repo from GitHub using git, check it out, work on it, then
 
 1.1.5. USet: attempt to add each string into a USet. If the add(String s) returns false, print the string.
 
-1.1.6. SSet: add all the lines into the SSet, which will automatically sort them, while also refusing to accept duplicates.
+1.1.6. SSet: add all the lines into the SSet, which will automatically sort them, while also refusing to accept duplicates, then print the output.
 
-1.1.7. 
+1.1.7. USet: add all the strings into a USet, then print them all out.
 
 1.1.8. 2 Queues: alternate adding each line to the queues, so that one queue has all the even numbered lines, while the other has all the odd numbered lines. Print the contents of the even one first by popping and printing, then do the same with the odd numbered queue.
 
-1.1.9. 
+1.1.9. Array of Strings: load each string into the array, then use Math.Random() to generate a random number in the array to print, while keeping track of which integers were already picked.
 
 #### 4. Your choice: Morin, Exercise 1.2, 1.3, or 1.4 (pick one)
 
