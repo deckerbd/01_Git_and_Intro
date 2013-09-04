@@ -56,11 +56,11 @@ Exercises
 
 #### 1. Based on the reading in the Git book, is it okay to keep your local copy of your repo on a USB drive and just carry it around? Explain why or why not. What about keeping it on the M: drive?
 
-[Your answer here]
+It's okay to make copies of your work and back it up also using your USB drive or M drive, but it's not okay to use them as your master for your work. It's important to use redundancy when backing up your master, and using GitHub to keep copies of all your repos online where you can access them anywhere.
 
 #### 2. Imagine that you come into the lab on the weekend to work on homework with friends, but you forgot to bring your USB drive with your repo on it. What should you do?
 
-[Your answer here]
+Clone your up-to-date repo from GitHub using git, check it out, work on it, then push your updates while you work to GitHub.
 
 #### 3. Morin, Exercise 1.1 (p. 23)
 
